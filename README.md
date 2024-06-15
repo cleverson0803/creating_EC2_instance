@@ -25,4 +25,10 @@
 ## 5. Criação de arquivos
 - crie um arquivo de texto simples usando o editor de sua preferência;
 - salve esse arquivo no volume montado.
-![](
+![](https://github.com/cleverson0803/creating_EC2_instance/blob/main/mkdir.png)
+
+## 6. Explorando recursos:
+- use comandos, como ls, df -h, mount e cat, para verificar o status do volume montado, o espaço em disco disponível e o conteúdo do arquivo criado;
+- por fim, tire um print deste último passo e envie para avaliação.
+![](https://github.com/cleverson0803/creating_EC2_instance/blob/main/Inst%C3%A2ncia_EC2.png)
+![](https://github.com/cleverson0803/creating_EC2_instance/blob/main/CAT.png)
